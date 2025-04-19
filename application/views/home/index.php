@@ -23,7 +23,7 @@
 
 <body class="theme-blue">
     <style> 
-        body {background-image: url('<?php echo base_url(); ?>assets/img/back_2.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: 100% 100%; } </style>
+        body {background-image: url('<?php echo base_url(); ?>assets/img/pxfuel.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: 100% 100%; } </style>
     <!-- WRAPPER -->
     <div id="wrapper">
         <div class="vertical-align-wrap">
